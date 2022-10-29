@@ -1,8 +1,8 @@
-# Coding Integration - Math / Science / Data Science
+# L'intégration du codage - Mathématiques / Sciences / Science des données
 
-## Part 1 Coding Integration in Math - MTH1W
+## Partie 1 : L'intégration du codage en mathématiques - MTH1W
 
-In this first notebook we will be exploring the following Expectations
+Dans la partie 1, nous explorerons les attentes suivantes
 
 ### C1 Algebraic Expressions and Equations
 - demonstrate an understanding of the development and use of algebraic concepts and of their connection to numbers, using various tools and representations
